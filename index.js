@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `WHITE ALFA connected successful ✅\n\nPREFIX:ENJOY THE BOT 👨‍🚀💗 ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/p22J5nQ/file-1nh1gowb-Fqjz1-YJGzgo8u1e-J.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/vdRpNRs/Leonardo-Phoenix-cute-geeky-bot-face-one-stroke-whitealfhamd-3.jpg` }, caption: up })
 
 }
 })

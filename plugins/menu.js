@@ -88,7 +88,7 @@ let tex = `
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴡʜɪᴛᴇ ᴀʟꜰᴀ ʙᴏᴛ*
 `
 
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/p22J5nQ/file-1nh1gowb-Fqjz1-YJGzgo8u1e-J.jpg`},caption: tex},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/YjdvYzc/file-Dk-CNr-FLShv-Gyty-Qux-Tr-N1x-Eo.webp`},caption: tex},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)

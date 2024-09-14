@@ -13,7 +13,7 @@ try{
 
 let des = `විදාන මෙනුව ලබා ගන්න .menu ලෙස ටයිප් කරන්න 👨‍🚀💗`
 
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/YjdvYzc/file-Dk-CNr-FLShv-Gyty-Qux-Tr-N1x-Eo.webp`},caption: des},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/p22J5nQ/file-1nh1gowb-Fqjz1-YJGzgo8u1e-J.jpg`},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)

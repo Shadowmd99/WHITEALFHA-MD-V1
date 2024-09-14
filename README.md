@@ -1,5 +1,5 @@
 
-<h1 align="center">WHITEALFA 1.0.0</h1>
+<h1 align="center">WHITEALFA-MD V1</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -26,7 +26,7 @@
 CREDIT BY shadow md support thx 👨‍💻
 
 
-## HOW TO DEPLOY white alfa - ＭＤ 👨‍💻
+## HOW TO DEPLOY WHITEALFHA-ＭＤ 👨‍💻
 
 
 1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.

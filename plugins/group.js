@@ -3,10 +3,10 @@
  Licensed under the  Apache-2.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Vajira-Md
- * @author : SamPandey001 <https://github.com/rmjmadu>
- * @description : Secktor,A Multi-device whatsapp bot.
- * @version 0.0.6
+ * @project_name : WHITEALFHA-Md
+ * @author : rmjmadu <https://github.com/rmjmadu>
+ * @description : 
+ * @version 0.0.1
  **/
 
 const { sck, sck1,cmd, jsonformat, botpic, TelegraPh, RandomXP, Config, tlang, warndb, sleep,getAdmin,getBuffer, prefix } = require('../lib')
